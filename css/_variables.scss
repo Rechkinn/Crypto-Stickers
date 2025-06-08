@@ -7,3 +7,29 @@ $font-size-35: 35px;
 
 $font-family-russo-one: 'Russo One', sans-serif;
 
+$color-blue: #46F4DB;
+$color-green: #57D272;
+$color-gradient: linear-gradient(0deg, $color-green 0%, $color-blue 100%);
+
+$color-button-transparent: transparent;
+
+$color-red: #D13130;
+$color-pink: #FF6F6F;
+
+$color-black: #07060B;
+
+$color-gray-light: #EDEDF2;
+$color-medium: #95959D;
+$color-gray-dark : #37373E;
+
+$border-0: 0;
+$border-color-red: 2px solid $color-red;
+$border-color-blue: 5px solid $color-blue;
+ 
+$border-radius-18: 18px;
+$border-radius-40: 40px;
+
+$padding-y-32: 32px;
+$padding-y-64: 64px;
+$padding-y-80: 80px;
+$padding-y-90: 90px;
