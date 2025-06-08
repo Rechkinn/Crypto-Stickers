@@ -1,0 +1,16 @@
+
+
+$width-tablet: 1024px; 
+$width-desctop: 1280px; 
+
+@mixin media-tablet() {
+    @media (min-width: $width-tablet) {
+        @content;
+    }
+}
+
+@mixin media-desctop() {
+    @media (min-width: $width-desctop) {
+        @content;
+    }
+}
