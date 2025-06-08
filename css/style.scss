@@ -1,3 +1,14 @@
+@import 'font';
+@import 'variables';
+@import 'mixins';
+
+
+
+
 body{
-    // font-family: ;
+    font-family: 'Muller', sans-serif;
+    font-size: $font-size-16;
+    font-weight: 700;
+    padding: 0;
+
 }
